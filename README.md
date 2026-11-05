@@ -6,7 +6,9 @@ CSP Gamepad is a Windows companion application that maps gamepad buttons, trigge
 
 ## Screenshot
 
-The application screenshot will be added by the project owner.
+<p align="center">
+  <img src="2026-11-05_12h25_22.png" alt="CSP Gamepad" width="100%">
+</p>
 
 ## Features
 
